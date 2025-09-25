@@ -1,4 +1,4 @@
-# Hi, I'm Kaushal 👋
+# Hi, I'm Kaushalendra (Kaushal) 👋
 
 - 🌱 Full-stack developer (React, React Native, Node.js, FastAPI, SQL)
 - ☁️ Learning AWS & DevOps pipelines
