@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kaushal 👋
 
-<!--
-**kaushalendrasingh/kaushalendrasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Full-stack developer (React, React Native, Node.js, FastAPI, SQL)
+- ☁️ Learning AWS & DevOps pipelines
+- 💡 Exploring open source contributions
+- ✍️ Love writing Hindi shayari & stories
+- 🌍 Traveller | Dreaming of a digital nomad lifestyle
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React, React Native, Next.js, Tailwind CSS
+- **Backend:** Node.js, TypeScript, FastAPI
+- **Database:** PostgreSQL, Prisma
+- **Cloud:** AWS, Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [POS Multi-Business App](#)  
+- [Bilkil – Subscription Tracker](#)  
+- [FestiiHub – Event & Vendor Platform](#)
+
+## 🤝 Open Source
+I contribute to React, Prisma ecosystem, and DevOps tooling.  
+See my [OPEN_SOURCE.md](./OPEN_SOURCE.md) for details.
