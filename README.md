@@ -35,7 +35,7 @@
   </picture>
 </p>
 
-![snake gif](https://github.com/Sadat-Rakib/Sadat-Rakib/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kaushalendrasingh/kaushalendrasingh/blob/main/github-contribution-grid-snake.gif)
 
 
 ## 🤝 Open Source
