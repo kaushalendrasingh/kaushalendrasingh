@@ -13,7 +13,7 @@
 - **Cloud:** AWS, Docker, GitHub Actions
 
 ## 📂 Featured Projects
-- [POS Multi-Business App](#)  
+- [POS Multi-Business App](https://github.com/kaushalendrasingh/pos-frontend-app)  
 - [Bilkil – Subscription Tracker](#)  
 - [FestiiHub – Event & Vendor Platform](#)
 
